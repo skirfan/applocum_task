@@ -1,0 +1,50 @@
+[
+  {
+    "product_id": "PID_001",
+    "product_name": "Cheese",
+    "image": "https://5.imimg.com/data5/YG/TT/MY-19206036/amul-cheese-block-500x500.jpg",
+    "location": "Refrigerated foods",
+    "quantity": 2,
+    "unit_price": "2.50"
+  },
+  {
+    "product_id": "PID_002",
+    "product_name": "Crisps",
+    "image": "http://www.tippanii.com/images/productimage/gallery/lays-american-style-cream-onion-flavour.png",
+    "location": "The Snack isle",
+    "quantity": 5,
+    "unit_price": "3"
+  },
+  {
+    "product_id": "PID_003",
+    "product_name": "Pizza",
+    "image": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/4/k/z/p42-15695757155d8dd3232d792.jpg?tr=tr:n-xlarge",
+    "location": "Refrigerated foods",
+    "quantity": 7,
+    "unit_price": "4"
+  },
+  {
+    "product_id": "PID_004",
+    "product_name": "Chocolate",
+    "image": "https://cdn.imgbin.com/8/8/12/imgbin-chocolate-bar-cadbury-dairy-milk-cadbury-dairy-milk-BxHqcppqpiPktBFzCE7FPXcpt.jpg",
+    "location": "The Snack isle",
+    "quantity": 8,
+    "unit_price": "1.50"
+  },
+  {
+    "product_id": "PID_005",
+    "product_name": "Self-raising flour",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmlOB2dLQk1Fuf6dTBSgu0hdWT3nlQeCR7JsVo0oQSsP-oU33&s",
+    "location": "Home Baking",
+    "quantity": 0,
+    "unit_price": "1.50"
+  },
+  {
+    "product_id": "PID_006",
+    "product_name": "Ground almonds",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQySdKDYokNB7YyhZcqNjPYhw1Ixk24g3o0NNblia1x24_OnKAM&s",
+    "location": "Home Baking",
+    "quantity": 1,
+    "unit_price": "3"
+  }
+]
